@@ -1,0 +1,16 @@
+{
+  "name": "statusbot",
+  "version": "1.0.0",
+  "description": "Discord Bot für Anwalt-Status-Übersicht",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1"
+  }
+}
